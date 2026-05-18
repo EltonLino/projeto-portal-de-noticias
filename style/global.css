@@ -37,4 +37,19 @@ a{
 
 a:hover{
     color: var(--brand-color-light);
+    transition: 0.5s;
+}
+
+.grid{
+    display: grid;
+}
+
+.grid-flow-column{
+    grid-auto-flow: column;
+}
+
+.container{
+    margin: auto;
+    max-width: 1600px;
+    padding-inline: 32px;
 }
