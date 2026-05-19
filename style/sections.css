@@ -18,3 +18,11 @@
         background: linear-gradient(180deg, transparent 0%, #020617 100%);
     }
 }
+
+figcaption{
+    position: absolute;
+    bottom: 0;
+    padding-inline: 24px;
+    margin-bottom: 24px;
+    
+}
